@@ -14,10 +14,5 @@ public class ArmstrongSayi {
 
         }
         System.out.println("Sum of the digits of the number is " + total );
-
-
-
-
-
     }
 }
